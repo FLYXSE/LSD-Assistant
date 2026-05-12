@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0+-green?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 Мощный UserBot для Telegram с множеством функций и модульной архитектурой.
 
@@ -170,10 +169,6 @@ LSD-Assistant/
 1. **Правила Telegram**: Использование UserBot может нарушать условия использования Telegram. Используйте на свой риск.
 2. **Безопасность**: Никогда не публикуйте свои `API_ID` и `API_HASH`.
 3. **Тестовый режим**: Бот запускается в `test_mode=True`.
-
-## Лицензия
-
-MIT License
 
 ## Автор
 
