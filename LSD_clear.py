@@ -19,7 +19,6 @@ async def clear(client: Client, message: Message):
 
     wait_msg = await message.edit(LSD_clear_wait)
 
-    # Ожидаем ответ в этом же чате от себя
     try:
         response = await client.listen(
             filters.chat(message.chat.id) &
@@ -42,7 +41,6 @@ async def clear(client: Client, message: Message):
         await response.delete()
         return
 
-    # YES подтверждено
     await wait_msg.delete()
     await response.delete()
 
