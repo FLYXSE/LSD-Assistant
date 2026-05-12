@@ -169,7 +169,7 @@ LSD-Assistant/
 
 1. **Правила Telegram**: Использование UserBot может нарушать условия использования Telegram. Используйте на свой риск.
 2. **Безопасность**: Никогда не публикуйте свои `API_ID` и `API_HASH`.
-3. **Тестовый режим**: Бот запускается в `test_mode=True`, что требует активации через @PyroBot.
+3. **Тестовый режим**: Бот запускается в `test_mode=True`.
 
 ## Лицензия
 
@@ -177,8 +177,7 @@ MIT License
 
 ## Автор
 
-- Telegram: @kwiken
-- Канал: @Unsupported_characters
+- Telegram: @kwiken_lab
 
 ---
 
